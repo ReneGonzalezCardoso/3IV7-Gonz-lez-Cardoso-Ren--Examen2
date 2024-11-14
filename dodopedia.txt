@@ -1,0 +1,32 @@
+nombre,mapa,tipo,metodo_de_tameo,salud,daño,velocidad,resistencia
+Dodo,The Island,Herbivoro,Derribo,40,100,150,5
+Raptor,The Island,Carnivoro,Derribo,1000,150,100,30
+Bronto,The Island,Herbivoro,Derribo,1000,300,200,25
+Giganotosaurus,The Island,Carnivoro,Derribo,1800,500,400,150
+Diplodocus,The Island,Herbivoro,Pasivo,700,0,200,20
+Stegosaurus,The Island,Herbivoro,Derribo,550,250,200,25
+Wyvern,Scorched Earth,Carnivoro,Robar Huevo,500,400,300,75
+Mantis,Scorchead Earth,Carnivoro,Derribo,250,200,150,40
+Phoenix,Scorchead Earth,Omnivoro,Quemarlo,600,400,300,85
+Morellatops,Scorchead Earth,Herbivoro,Pasivo,300,250,300,15
+Lymantria,Scorchead Earth,Herbivoro,Pasivo,250,200,300,10
+Reaper,Aberration,Carnivoro,Que te embarace,1000,500,300,100
+Rock Drake,Aberration,Carnivoro,Robar Huevo,350,250,200,45
+Basilisk,Aberration,Carnivoro,Darle de Comer Huevos de Wyvern,400,300,250,65
+Glowtail,Aberration,Herbivoro,Pasivo,60,120,180,15
+Roll Rat,Aberration,Herbivoro,Pasivo,450,300,250,20
+Velonasaur,Extinction,Carnivoro,Derribo,250,200,150,55
+Gasbags,Extinction,Herbivoro,Pasivo,500,350,300,20
+Snow Owl,Extinction,Carnivoro,Derribo,350,250,300,40
+Managarmr,Extinction,Carnivoro,Derribo,600,350,200,65
+Enforcer,Extinction,Carnivoro,Crearlo,500,350,200,35
+Ferox,Genesis 1,Omnivoro,Pasivo con Elemento,300,220,180,60
+Magmasaur,Genesis 1,Carnivoro,Robar Huevo,800,450,350,90
+Bloodstalker,Genesis 1,Carnivoro,Pasivo con Sangre,200,180,200,55
+Megachelon,Genesis 1,Herbivoro,Pasivo Protegerlo,3000,40,300,325
+Noglin,Genesis 2,Carnivoro,Pasiva,250,200,250,50
+Maewing,Genesis 2,Omnivoro,Pasivo,250,200,250,50
+Shadowmane,Genesis 2,Carnivoro,Derribo,500,300,250,75
+Astrocetus,Genesis 2,Carnivoro,Pasivo,750,400,350,90
+Tek Stryder,Genesis 2,Omnivoro,Hackeandolo,700,500,400,50
+ggg,,,,,,,
